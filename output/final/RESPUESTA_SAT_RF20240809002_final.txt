@@ -1,0 +1,286 @@
+1|MELA750922PV9|ALEJANDRO MELESIO LOPEZ|06010|RFC válido, y susceptible de recibir facturas
+2|JUAC910613FX7|CESAR SAUL JUAREZ AMEZCUA|63737|RFC válido, y susceptible de recibir facturas
+3|MEBA000529385|AXEL MENDECUCHIA BALLESTEROS|10810|RFC válido, y susceptible de recibir facturas
+4|HEMF781213EL6|FRANCISCO NICOLAS HERNANDEZ MARQUEZ.|66023|El Código Postal no coincide con el registrado en el RFC.
+5|HEME991216NE9|EFREN ISRAEL HERNANDEZ MONTERO|45605|El Código Postal no coincide con el registrado en el RFC.
+6|FARH880306KS0|HUMBERTO FARFAN RAMON|32590|El Código Postal no coincide con el registrado en el RFC.
+7|DUFC980709LT5|CESAR DANIEL DURAN FLORES|15210|RFC válido, y susceptible de recibir facturas
+8|LOGA010813K67|ALEXIS EDUARDO LOZANO GARCIA|45653|El Código Postal no coincide con el registrado en el RFC.
+9|RUVI010108GSA|ISAAC RODRIGO RUBIO VALLES|32000|El Código Postal no coincide con el registrado en el RFC.
+10|AOGE970522837|JOSE AYON GARCIA|45200|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+11|OIGG840913FW3|GERARDO ONTIVEROS GODINEZ|43653|El Código Postal no coincide con el registrado en el RFC.
+12|MAMI990805HC9|IVAN ALEJANDRO MARTINEZ MELENDEZ|52980|El Código Postal no coincide con el registrado en el RFC.
+13|GAPA961129TZ4|A G P|56346|RFC no registrado en el padrón de contribuyentes
+14|SACM0007277S4|MAURICIO SANTOS CORTEZ|58116|RFC válido, y susceptible de recibir facturas
+15|VAAD051006MM0|DANIEL VAZQUEZ ALANIS|04230|RFC válido, y susceptible de recibir facturas
+16|JUOD951203|Estructura del RFC incorrecta
+17|SAPR970204BTA|JOSE ROGELIO SANCHEZ PADILLA|83450|RFC válido, y susceptible de recibir facturas
+18|GUMA001030E12|ANDRES ALBINO GUTIERREZ MARTINEZ|67130|El Código Postal no coincide con el registrado en el RFC.
+19|PECC920117QL6|CARLOS PEREZ CORDOBA|09100|El nombre, denominación o razón social no coincide con el registrado en el RFC
+20|OEGD790706311|DAVID ISAIAS OLEA GARCIA|44300|El Código Postal no coincide con el registrado en el RFC.
+21|MAGA950116S77|AZUCENA MAURICIO GONZALEZ|62572|El Código Postal no coincide con el registrado en el RFC.
+22|SACJ980710EF6|JHONATAN JOSUE SANCHEZ CORTES|45140|RFC válido, y susceptible de recibir facturas
+23|HEBS970903378|SAMUEL HERNANDEZ BARRON|55029|RFC válido, y susceptible de recibir facturas
+24|MOCC9401273R7|CRISTOFER FERNANDO MONTAÑO CAPETILLO|77723|RFC válido, y susceptible de recibir facturas
+25|RETJ020815I71|JULIO ADRIAN REYES TECLA|09310|RFC válido, y susceptible de recibir facturas
+26|GUAJ050718|Estructura del RFC incorrecta
+27|AUSJ9907208Z8|JESUS DANIEL AGUILERA SANCHEZ|23084|RFC válido, y susceptible de recibir facturas
+28|METR871022JQ3|RAMSES DAVID MEDINA TOVAR|45606|El Código Postal no coincide con el registrado en el RFC.
+29|MAAE820708JZA|EDGAR EMILIO MATEOS AVILA|39902|El Código Postal no coincide con el registrado en el RFC.
+30|BAPA950906U64|ALDO IVAN BASURTO PEREZ|32599|RFC válido, y susceptible de recibir facturas
+31|PERH020427Q95|HUGO EMMANUEL PEDROZA RAMIREZ|27288|El Código Postal no coincide con el registrado en el RFC.
+32|MAPR8807133P4|ROBERTO MARTINEZ PEREZ|89315|El Código Postal no coincide con el registrado en el RFC.
+33|JOCJ9209153U6|JOSSHUAN NEPTALI JORDAN CORDERO|89604|El Código Postal no coincide con el registrado en el RFC.
+34|AETL971227ED0|LISSET ALMEIDA TORRES|33001|El Código Postal no coincide con el registrado en el RFC.
+35|GASJ0008304S9|JESUS ALBERTO GALICIA SANTIAGO|65776|RFC válido, y susceptible de recibir facturas
+36|MACA000901N3A|ANA LAURA MARTINEZ CONTRERAS|10370|RFC válido, y susceptible de recibir facturas
+37|VEHE911226BN1|EDMUNDO VEGA HEIMSATZ|77539|El Código Postal no coincide con el registrado en el RFC.
+38|HESJ810924K39|JUAN GABRIEL HERNANDEZ SANCHEZ|66623|El Código Postal no coincide con el registrado en el RFC.
+39|GASS920912121|SERGIO GARCIA SALAS|31143|RFC no registrado en el padrón de contribuyentes
+40|LOAA9701276LA|ANA CRISTINA LOPEZ ALCAZAR|22254|El Código Postal no coincide con el registrado en el RFC.
+41|VEGJ030925HJ8|JESUS VEGA GOMEZ|81295|El nombre, denominación o razón social no coincide con el registrado en el RFC
+42|AOZE8507158E2|ERICK DAVID ACOSTA ZAVALA|24087|El Código Postal no coincide con el registrado en el RFC.
+43|CUHA011219BB8|ADAMARY CRUZ HERNANDEZ|96365|RFC no registrado en el padrón de contribuyentes
+44|GARG891204RVA|GUILLERMO EVALDO GALAVIZ RODRIGUEZ|66634|El Código Postal no coincide con el registrado en el RFC.
+45|VAMJ951224KL7|JONATHAN VARGAS MOTA|32660|El Código Postal no coincide con el registrado en el RFC.
+46|LEGA950113GM4|JOSE ALEJANDRO LEON GONZALEZ|21138|RFC válido, y susceptible de recibir facturas
+47|RAAC030827SP5|CARLOS ALFONSO RAMIREZ AISPURO|36040|RFC válido, y susceptible de recibir facturas
+48|SAVJ741215468|JUAN ARTURO SANCHEZ VARGAS|35560|El Código Postal no coincide con el registrado en el RFC.
+49|VIHA900507KC2|ALDO VIDAUR HERNANDEZ|16080|El nombre, denominación o razón social no coincide con el registrado en el RFC
+50|ROPD9607099N4|DIANA ITZEL ROSAS PEREZ|21386|RFC válido, y susceptible de recibir facturas
+51|OOCJ021215F12|JABES EMMANUEL OLMOS CONTRERAS|93164|RFC válido, y susceptible de recibir facturas
+52|RESL960828F65|JOSE LUIS REOS SANDOVAL|44240|RFC válido, y susceptible de recibir facturas
+53|LIML930515V88|LUIS GERARDO LIMONES MATA|35159|RFC válido, y susceptible de recibir facturas
+54|ROAC750324QC9|CLAUDIA GABRIELA ROJAS ALCOCER|55404|El Código Postal no coincide con el registrado en el RFC.
+55|DUBS760817V46|SIRENIA DURAN BARRIOS|14427|El Código Postal no coincide con el registrado en el RFC.
+56|CAME910304RB4|JOSE EDUARDO CAUDILLO MARTINEZ|36554|El Código Postal no coincide con el registrado en el RFC.
+57|GASV890519ER7|VERONICA VICTORIA GARCIA SANCHEZ|44330|RFC válido, y susceptible de recibir facturas
+58|NAAJ010218NIA|JARED JOSHUA NAVA ALTAMIRANO|37480|RFC válido, y susceptible de recibir facturas
+59|LETA050924NV9|ANTONY JOSEPH LEDESMA TORRES|63070|RFC válido, y susceptible de recibir facturas
+60|MOVR021209TR6|RICARDO DAVID MONTER VEGA|38036|El Código Postal no coincide con el registrado en el RFC.
+61|FOPI910118C98|IVAN MANUEL FLOTA PACHO|97000|El Código Postal no coincide con el registrado en el RFC.
+62|LECI941021780|IVAN LEON CASTAÑEDA|62739|RFC válido, y susceptible de recibir facturas
+63|CAMJ011225HE3|JESUS ALBERTO CAUDILLO MENDOZA|36843|RFC válido, y susceptible de recibir facturas
+64|GUFJ030109JM9|JUAN ARTURO GUDINO FLORES|87030|RFC válido, y susceptible de recibir facturas
+65|LIMJ7908132KA|JUAN ANTONIO LIRA MORENO|32680|El Código Postal no coincide con el registrado en el RFC.
+66|ROSE020407EBA|EDGAR ROJAS SASTRE|90990|El Código Postal no coincide con el registrado en el RFC.
+67|AIBJ931021G56|JORGE ALEJANDRO AVILA BAÑOS|07620|El Código Postal no coincide con el registrado en el RFC.
+68|GOSJ970411BA3|JONATHAN ANDRES GOMEZ SOLIS|37300|El Código Postal no coincide con el registrado en el RFC.
+69|CUAF001012QD9|JOSE FERNANDO CUARENTA ARZOLA|67276|El Código Postal no coincide con el registrado en el RFC.
+70|MOLF970523IC9|MARIA FERNANDA MORALES LOPEZ|14438|RFC válido, y susceptible de recibir facturas
+71|JICS010927C10|SALVADOR JIMENEZ CARRILLO|07200|RFC válido, y susceptible de recibir facturas
+72|MEFH050614LLA|HECTOR MEDINA FLORES|37549|El nombre, denominación o razón social no coincide con el registrado en el RFC
+73|HEGI951118MD4|IAN EMMANUEL HERNANDEZ GAMERO|54960|RFC válido, y susceptible de recibir facturas
+74|BEGA051021KM7|ABISAI BERNAL GARCUA|62588|El nombre, denominación o razón social no coincide con el registrado en el RFC
+75|COHY050611C83|YARITZY ELIZABETH CORTES HERNANDEZ|55055|RFC válido, y susceptible de recibir facturas
+76|RAGW801021BG7|WALDO EDUARDO RAMOS GALAN|94542|El Código Postal no coincide con el registrado en el RFC.
+77|LOGJ040702E98|JHON JAIRO LOSADA GONZALEZ|68043|RFC válido, y susceptible de recibir facturas
+78|SUAJ981220939|JONATHAN IVAN SUSANO ALDANA|55335|El Código Postal no coincide con el registrado en el RFC.
+79|DUCR920716KQ8|RICARDO IVAN DZUL CAMAS|77529|El Código Postal no coincide con el registrado en el RFC.
+80|PAMB000419H76|BRYAN RICARDO PACHECO MAGALLON|45630|RFC válido, y susceptible de recibir facturas
+81|TOGM830105LR4|MARCO ANTONIO TORRES GARCIA|09030|El Código Postal no coincide con el registrado en el RFC.
+82|MAMM870620MK7|MARCOS HILARIO MARIN MOLINA|20287|RFC válido, y susceptible de recibir facturas
+83|ROVV690927EL1|VICTOR MANUEL ROSALES VARGAS|52979|RFC válido, y susceptible de recibir facturas
+84|MOGL041008FZ6|LUIS ARTURO MONTERO GUADALUPE|55070|RFC válido, y susceptible de recibir facturas
+85|PIVA030915GR8|AARON PISCIL VELAZQUEZ|55339|RFC válido, y susceptible de recibir facturas
+86|FOHB030518IC7|BRYAN MAURICIO FLORES HIGUERA|45060|El Código Postal no coincide con el registrado en el RFC.
+87|COGH960718SU7|HUMBERTO JOSE CORRAL GARIBAY|22625|El Código Postal no coincide con el registrado en el RFC.
+88|TOAG9301285T0|GUILLERMO TOBIAS AGUILAR|87080|RFC válido, y susceptible de recibir facturas
+89|LISS9912225F9|SEBASTIAN RAMON LINARES SILVA|15510|RFC válido, y susceptible de recibir facturas
+90|RESJ820309NG3|JESUS RENOVATO SEGOVIA|00000|El Código Postal no coincide con el registrado en el RFC.
+91|OOMV820925K6A|VALENTIN ORDOÑEZ MENDOZA|25017|El Código Postal no coincide con el registrado en el RFC.
+92|GACB040106J8A|BRIAN JARRELL GALLARDO CORNEJO|37360|RFC no registrado en el padrón de contribuyentes
+93|DUSL0011198E1|LUIS ANTONIO DURAN SANABRIA|52107|RFC válido, y susceptible de recibir facturas
+94|FIVG0507159S7|GUSTAVO ALEJANDRO FRIAS VIDAL|15730|RFC válido, y susceptible de recibir facturas
+95|CAMV010201QT9|VIRIDIANA CAN MORA|91698|RFC válido, y susceptible de recibir facturas
+96|EALS840421A14|SALVADOR ESCATEL LOPEZ|45066|El Código Postal no coincide con el registrado en el RFC.
+97|SOVA9707214M8|ADRIAN EMMANUEL SOTELO VILLARREAL|45234|RFC válido, y susceptible de recibir facturas
+98|GAMM7711152B4|MARTHA ISABEL GARCIA MALDONADO|32575|El Código Postal no coincide con el registrado en el RFC.
+99|COCC910115K11|CESAR EDUARDO CORDOBA CORTEZ|71317|El Código Postal no coincide con el registrado en el RFC.
+100|VAHJ910915BK1|JOEL VARGAS HERNANDEZ|72595|RFC válido, y susceptible de recibir facturas
+101|MUFJ990502|Estructura del RFC incorrecta
+102|PECF991027J96|FERNANDO ALBERTO PEREZ CADENA|34170|El Código Postal no coincide con el registrado en el RFC.
+103|AESJ060228EB6|JUAN MARTIN ALMEDA SANCHEZ|66673|RFC válido, y susceptible de recibir facturas
+104|AANM700125HD3|MARTHA PATRICIA AVALOS NUÑES|44960|El nombre, denominación o razón social no coincide con el registrado en el RFC
+105|MACA010621P23|AMERICA MARTINEZ CONTRERAS|78370|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+106|OAOE010630MN3|JOSE ENRIQUE OVANDO OVIEDO|55763|RFC válido, y susceptible de recibir facturas
+107|PETG041014CC6|GUADALUPE AURELIO PEREZ TINOCO|48290|RFC válido, y susceptible de recibir facturas
+108|LOJJ0207043G2|JESUS ALFONSO LOPEZ DE JESUS|09000|El Código Postal no coincide con el registrado en el RFC.
+109|AESI040518P64|ISAAC ARREOLA SANTANA|61853|El Código Postal no coincide con el registrado en el RFC.
+110|MEMM980716FA2|MANUEL ALEJANDRO MELGAR MAYORAL|77539|RFC válido, y susceptible de recibir facturas
+111|ROMF950619TV0|FERNANDO RODRIGUEZ MARTINEZ|13219|El Código Postal no coincide con el registrado en el RFC.
+112|MOBO051003MS4|OSCAR ADRIAN MORALES BERMUUDEZ|66478|El nombre, denominación o razón social no coincide con el registrado en el RFC
+113|COCR0301142V1|RICARDO EMILIO COLUNGA CRUZ|37353|El Código Postal no coincide con el registrado en el RFC.
+114|MEDA860609IM3|ALDO MERCADO DAVILA|25086|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+115|AEAD0008228C8|DIEGO EDUARDO ASCENCIO AVILES|23426|El Código Postal no coincide con el registrado en el RFC.
+116|OAVF9010244D1|JOSE FERNANDO ORGANISTA VELAZQUEZ|54720|RFC válido, y susceptible de recibir facturas
+117|BACO9402074S1|OSWALDO BARRIENTOS CERVANTES|72000|RFC válido, y susceptible de recibir facturas
+118|SALS970203548|SERGIO IGNACIO SANTIAGO LOPEZ|72220|RFC válido, y susceptible de recibir facturas
+119|VARB650321MX7|BENITO VAZQUEZ RODRIGUEZ|53535|El Código Postal no coincide con el registrado en el RFC.
+120|YECM900613DN5|MAYRA LAURA YLLESCAS CORDOVA|07899|El Código Postal no coincide con el registrado en el RFC.
+121|OOOJ970220TZ8|JESUS EDUARDO OCHOA OLVERA|65750|El Código Postal no coincide con el registrado en el RFC.
+122|VAMJ030927IT1|JAEL VALENCIA MARTIN|97290|El nombre, denominación o razón social no coincide con el registrado en el RFC
+123|CAHS950924TZ6|MARIA SARAHI CALDERON HERNANDEZ|37438|RFC válido, y susceptible de recibir facturas
+124|TESM010707TK4|MIGUEL ANGEL TERAN SUAREZ|44700|RFC válido, y susceptible de recibir facturas
+125|MAJL911103FV8|LAURA DEL CARMEN MARTINEZ JIMENEZ|83297|El Código Postal no coincide con el registrado en el RFC.
+126|JUHJ861109|Estructura del RFC incorrecta
+127|AOAR9406072J4|RODOLFO ACOSTA ACOSTA|34000|RFC válido, y susceptible de recibir facturas
+128|CAGJ981102KJ7|JESUS GABRIEL CAMACHO GONZALEZ|81257|RFC válido, y susceptible de recibir facturas
+129|AEAL0308297V4|LEOBARDO ANGEL ARELLANO ALVARADO|06300|El Código Postal no coincide con el registrado en el RFC.
+130|ZAZJ9706019X6|JONATHAN ALBERTO ZARATE ZARAGOZA|58010|RFC válido, y susceptible de recibir facturas
+131|ROAM0407093V0|MAURICIO ADRIAN ROGEL ANTONIO ROGEL ANTONIO|09636|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+132|LOCI851102QH0|IVAN DE JESUS LOPEZ CONTRERAS|09210|RFC válido, y susceptible de recibir facturas
+133|LUSE670418AC2|ERNESTO LUNA SARIÑANA|35025|El Código Postal no coincide con el registrado en el RFC.
+134|ROVB950718NY9|BRENDA ESTEFANIA RODRIGUEZ VIGIL|65502|El Código Postal no coincide con el registrado en el RFC.
+135|REAJ800615PE7|JAIME ANDRES REYES ARROYO|34225|El Código Postal no coincide con el registrado en el RFC.
+136|BEPD0012129G7|DIEGO BERNAL PANTALEON|54955|RFC válido, y susceptible de recibir facturas
+137|HGRP051104IL7|HENRRY GIOVANNY RUIZ PASTRANA|91780|RFC no registrado en el padrón de contribuyentes
+138|SAMS7705196Y2|SANDRA SALAZAR MUNGUIA|54090|El nombre, denominación o razón social no coincide con el registrado en el RFC
+139|MERA991130C93|ARLETTE MONTSERRAT MENDOZA RIVERA|27276|RFC válido, y susceptible de recibir facturas
+140|SOEC800110HYO|CARLOS OMAR SOTO ESPINOZA|83280|RFC no registrado en el padrón de contribuyentes
+141|FOGF000620AX3|FRANCISCO JAVIER FORTIS GONZALEZ|08100|RFC válido, y susceptible de recibir facturas
+142|OIPD830502PF0|DANIEL ORTIZ PINTO|55076|El Código Postal no coincide con el registrado en el RFC.
+143|LAER0005238Q0|RICARDO LLANOS ESCOBAR|37545|RFC válido, y susceptible de recibir facturas
+144|SIZA801110ES8|ALICIA SILVA ZAVALA|45654|El Código Postal no coincide con el registrado en el RFC.
+145|EITK060102ID8|KAROL ESPINOZA TAPIA|72495|RFC válido, y susceptible de recibir facturas
+146|UEMK970809TFA|KARLA PALOMA URREA MORALES|37400|RFC válido, y susceptible de recibir facturas
+147|PAGM000118DQ0|JOSE MANUEL PASCASIO GARCIA|44900|El nombre, denominación o razón social no coincide con el registrado en el RFC
+148|MAHS0402172N0|SERGIO IVAN MAGDALENO HERRERA|55796|RFC no registrado en el padrón de contribuyentes
+149|VICE750117B42|EDGAR OMAR VILLAGRAN CORONA|54715|RFC válido, y susceptible de recibir facturas
+150|ROMA0310119L7|ALBERTO DAVID ROBLES MORALES|50295|RFC válido, y susceptible de recibir facturas
+151|RITP800915EP4|PORFIRIO RIVERA TORRES|77720|El Código Postal no coincide con el registrado en el RFC.
+152|EIGB030407581|BRAYAN ESPINOZA GALLARDO|37544|RFC válido, y susceptible de recibir facturas
+153|GACM0507211F5|MATEO JOSUE GALVAN CAMACHO|44260|El Código Postal no coincide con el registrado en el RFC.
+154|SOCG990518247|GABRIELA SOLIS CORONADO|44700|El nombre, denominación o razón social no coincide con el registrado en el RFC
+155|EOCY950127NT7|YARAZET ESCOBAR CLEMENTE|25900|El Código Postal no coincide con el registrado en el RFC.
+156|BERE050920FT0|EMILY NAYELI BECERRA ROMO|21395|RFC válido, y susceptible de recibir facturas
+157|CORG820708LI3|GENARO COLIO RODRIGUEZ|82190|RFC válido, y susceptible de recibir facturas
+158|BECG0003104J6|GEOVANNY ERNESTO BECERRIL CARMONA|09100|RFC válido, y susceptible de recibir facturas
+159|MOUA0111158R2|ANNA MERCEDES MORENO URBINA|32674|RFC válido, y susceptible de recibir facturas
+160|RAPA980722TA3|ARMANDO RAMIREZ PADILLA|54190|RFC válido, y susceptible de recibir facturas
+161|SAGD000325TH4|DANIEL HUMBERTO SANTILLAN GONZALEZ|29045|RFC válido, y susceptible de recibir facturas
+162|SARS9803208A8|SERGIO BRUNO SANCHEZ RUIZ|36670|El Código Postal no coincide con el registrado en el RFC.
+163|ROAE051229HAA|EDSON RAFAEL RODRIGUEZ ARREOLA|66600|El Código Postal no coincide con el registrado en el RFC.
+164|MUBN970528J1A|NESTOR RENE MUÑOZ BENAVIDES|27900|RFC válido, y susceptible de recibir facturas
+165|PERL040119PN5|LUIS MARIO PEREZ RUIZ|23088|RFC no registrado en el padrón de contribuyentes
+166|FEOA981215B67|ARTURO ALEJANDRO FERNANDEZ OSORIO|54434|El Código Postal no coincide con el registrado en el RFC.
+167|IAMR690608EI7|ROXANA IBARRA MARTINEZ|63195|RFC válido, y susceptible de recibir facturas
+168|CIZA490531CR5|ALFONSO CISNEROS ZANABRIA|36625|RFC válido, y susceptible de recibir facturas
+169|BACE0606028A0|ELISA MONTSERRAT BARCENAS COVARRUBIAS|66612|RFC válido, y susceptible de recibir facturas
+170|LURT830203KAA|TEODORO LUNA RODRIGUEZ|01000|RFC válido, y susceptible de recibir facturas
+171|LOLR9310012S1|RAUL ENRIQUE LOPEZ LOPEZ|66218|El Código Postal no coincide con el registrado en el RFC.
+172|VAPJ880503LNA|JOSIMAR VAZQUEZ PEREZ|78378|RFC válido, y susceptible de recibir facturas
+173|DIVJ001006GM6|JESUS ALFREDO DIAZ VELASCO|57000|RFC válido, y susceptible de recibir facturas
+174|MASA971118BS8|ALEJANDRA MARTINEZ SALAS|45138|RFC válido, y susceptible de recibir facturas
+175|MADA830620LU8|ALEJANDRO MAY DZIB|77509|RFC válido, y susceptible de recibir facturas
+176|SASJ030131FC9|JUAN ANTONIO SANCHEZ SIORDIA|45300|RFC válido, y susceptible de recibir facturas
+177|SAHP920505G48|PAMELA SANCHEZ HURTADO|66636|El Código Postal no coincide con el registrado en el RFC.
+178|OUZM001204TQ4|JOSE MANUEL OLGUIN ZEPEDA|21386|RFC válido, y susceptible de recibir facturas
+179|FEIW831109DK7|WENDY FELIX IBARRA|84160|RFC válido, y susceptible de recibir facturas
+180|JARE7611069D7|EVA ANGELICA JAUREGUI RUVALCABA|06300|El Código Postal no coincide con el registrado en el RFC.
+181|BUPG000801KQ6|GIOVANNA BULBARELA PACHECO|94575|RFC válido, y susceptible de recibir facturas
+182|CACM0211288F6|MIGUEL EDUARDO CARTAS CARDENAS|96520|RFC válido, y susceptible de recibir facturas
+183|GOMC970906EY2|JOSE CARLOS GONZALEZ MANRIQUE|67257|El Código Postal no coincide con el registrado en el RFC.
+184|SACF870806VA5|FELIX SAAVEDRA CONTRERAS|66415|RFC válido, y susceptible de recibir facturas
+185|OIGV861128P59|VIRIDIANA ORTIZ GARCIA|06300|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+186|PUMC911222AW4|CYNTYA NALLELY PUGA MARTINEZ|87120|El Código Postal no coincide con el registrado en el RFC.
+187|VABJ9606248A7|JUAN MANUEL VAZQUEZ BRAVO|86090|RFC válido, y susceptible de recibir facturas
+188|AOMC001119QQ9|CARLOS ALBERTO ALONSO MONTAÑEZ|20358|RFC válido, y susceptible de recibir facturas
+189|FOCK980320|Estructura del RFC incorrecta
+190|SAGL0606248UA|LENIN SANCHEZ GALLARDO|56614|RFC válido, y susceptible de recibir facturas
+191|ZEMU890226P66|ULISES ZERMEÑO MARTINEZ|52776|RFC válido, y susceptible de recibir facturas
+192|BADJ9712103B4|JAIR BAUTISTA DOMINGUEZ|87456|RFC válido, y susceptible de recibir facturas
+193|HEGE9808019G7|MARIA ELENA HERNANDEZ GARCIA|44790|El Código Postal no coincide con el registrado en el RFC.
+194|AOOS000909I21|SILVESTRE PAUL ARROYO ORTEGA|63173|El Código Postal no coincide con el registrado en el RFC.
+195|RIAJ961114|Estructura del RFC incorrecta
+196|MODE0204233H5|EDWIN RANGEL MORALES DIAZ|80295|RFC válido, y susceptible de recibir facturas
+197|SEJA9409122V7|ANGEL CANDIDO SERNAS JIMENEZ|75763|El Código Postal no coincide con el registrado en el RFC.
+198|JELF930122SC9|FELIPE DE JESUS LUIS|16030|RFC válido, y susceptible de recibir facturas
+199|COGG660625A1F|GUILLERM COT GERALD|23080|RFC no registrado en el padrón de contribuyentes
+200|DAGI930403JTA|IRVING MICHELLE DAMIAN GONZALEZ|82000|RFC válido, y susceptible de recibir facturas
+201|LODB9910185I4|BRIAN ALFREDO LOPEZ DURAN|14427|RFC válido, y susceptible de recibir facturas
+202|OIAJ490112MD7|MARIA JOSEFINA OLIVARES AMADOR|55764|El Código Postal no coincide con el registrado en el RFC.
+203|ZEAD970602IP3|DANIA JAQUELINE ZEPEDA AGUILAR|28219|El Código Postal no coincide con el registrado en el RFC.
+204|GACG990723LJ8|GERARDO GARCIA CUBA|86127|El Código Postal no coincide con el registrado en el RFC.
+205|VEFN8307174D0|NANCY MARISOL FLORES VEGA|54934|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+206|FIMF8909286Y2|FIDENCIO FIGUEROA MARTINEZ|21600|RFC válido, y susceptible de recibir facturas
+207|MACJ050128JD3|JOHAN ISAI MATIAZ CRUZ|72490|RFC válido, y susceptible de recibir facturas
+208|LOJM960502L43|MARICRUZ LOPEZ JARAMILLO|27020|RFC válido, y susceptible de recibir facturas
+209|ZAID910806KQ8|DIANA ZAPATA IBARRA|07860|RFC válido, y susceptible de recibir facturas
+210|MAGT911125F16|TALITA PERLA MARTINEZ GUADARRAMA|97302|RFC válido, y susceptible de recibir facturas
+211|HEBM971003BM5|MANUEL ISRAEL HERNANDEZ BARRON|25720|RFC válido, y susceptible de recibir facturas
+212|CAHL970212Q83|JOSE LUIS CARREON HERNANDEZ|72980|RFC válido, y susceptible de recibir facturas
+213|SOCP0312233E6|PAUL SOLIS COLORADO|94290|RFC válido, y susceptible de recibir facturas
+214|SEHM010712|Estructura del RFC incorrecta
+215|BAVC991103TK2|CARLOS ARMANDO BARRON VERDIN|45644|El Código Postal no coincide con el registrado en el RFC.
+216|GUGL890911RB8|LUIS ANTONIO GUTIERREZ GONZALEZ|14800|El Código Postal no coincide con el registrado en el RFC.
+217|MPR111125A66|JESUS DANIEL MARTINEZ RAMIREZ|50205|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+218|RAFK060714H52|KEVYN ALEXIS RAMIREZ FLORES|55188|RFC válido, y susceptible de recibir facturas
+219|NABR010725HN4|RODOLFO NAJERA BAUTISTA|76906|El Código Postal no coincide con el registrado en el RFC.
+220|CORL810712JY7|LUIS EDGAR COUTINO RODRIGUEZ|56300|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+221|REGB0203288G7|BRENDA ESPERANZA REYES GARNICA|37669|El Código Postal no coincide con el registrado en el RFC.
+222|RAMA040404EKA|ANGEL RICARDO RAMIREZ MOO|97170|RFC válido, y susceptible de recibir facturas
+223|SACA840925QJ9|ALDO RICARDO SANCHEZ CALZADA|45050|RFC válido, y susceptible de recibir facturas
+224|MOBA920219JI6|ALMA ROSA MONTALVO BRAVO|56617|El Código Postal no coincide con el registrado en el RFC.
+225|GOMM9804072D0|MARCO AURELIO GONZALEZ MARQUEZ|45051|RFC válido, y susceptible de recibir facturas
+226|GOMG000517|Estructura del RFC incorrecta
+227|RESB0104185A6|BRAULIO LEONARDO REYNA SANCHEZ|66647|RFC no registrado en el padrón de contribuyentes
+228|VAMA960325PRA|ALEJANDRO VALLEJO MEJIA|50170|RFC válido, y susceptible de recibir facturas
+229|AAAE880521UD4|EDGAR OMAR ALVAREZ ALVARADO|80305|RFC válido, y susceptible de recibir facturas
+230|ROAF980715HH0|FRANCISCO GABRIEL ROMAN AVILA|62588|RFC válido, y susceptible de recibir facturas
+231|DAMI050920R46|IAN ALDAHI DAVALOS MEZA|09920|RFC válido, y susceptible de recibir facturas
+232|BEAT7610153W7|TERESA BELTRAN AVILES|09850|El Código Postal no coincide con el registrado en el RFC.
+233|EUCA030606QX4|JOSE ALBERTO ESQUIVE CHAVEZ|09000|El nombre, denominación o razón social no coincide con el registrado en el RFC
+234|JICE941222GK6|EFRAIN JIMENEZ CANSECO|22636|RFC válido, y susceptible de recibir facturas
+235|MOME841028TI7|EDGAR MORALES MORAN|01510|El Código Postal no coincide con el registrado en el RFC.
+236|DUBC0112285H2|CESAR ISAIAS DURAN BARAJAS|54760|RFC válido, y susceptible de recibir facturas
+237|GOSY0309058U3|YULISSA DANIELA GONZALEZ SILVA|64750|RFC válido, y susceptible de recibir facturas
+238|CIRG981212JU8|JOSE GUADALUPE CHILAR ROMERO|55400|RFC válido, y susceptible de recibir facturas
+239|CCO8605231N4|JUAN IÑIGUEZ CARO|97000|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+240|MAMG0104095Q1|MARIA GUADALUPE MARAÑON MARTINEZ|87313|RFC válido, y susceptible de recibir facturas
+241|RACA9709218A3|AHRAT SAID RAMIREZ CASTILLO|54430|RFC válido, y susceptible de recibir facturas
+242|REGP031028152|PAOLA REYNOSO GUTIERREZ|55120|El nombre, denominación o razón social no coincide con el registrado en el RFC
+243|AABR8308225P0|RAUL CESAR ALVAREZ BARRON|64210|El Código Postal no coincide con el registrado en el RFC.
+244|PAFL841203GE1|FLOR ELENA XX PADILLA|87040|EL Nombre o Razón Social y CP no coinciden con lo registrado en el RFC
+245|SORA820703GB1|ALBERTO SOTO RODRIGUEZ|37296|El Código Postal no coincide con el registrado en el RFC.
+246|MOGJ9902279C4|JUAN PABLO MORALES GONZALEZ|10010|RFC válido, y susceptible de recibir facturas
+247|AUGJ0009303K4|JONATAN YAIR AGUILAR GARCIA|56507|RFC válido, y susceptible de recibir facturas
+248|RAGJ0304088C1|JOSHUA RAMIREZ GARCIA|62573|El nombre, denominación o razón social no coincide con el registrado en el RFC
+249|MEAM740312BNA|MARIFELI MEDINA ANGULO|80197|RFC no registrado en el padrón de contribuyentes
+250|MEMA890621JW9|ANDREA NAYIVEE MERCADO MORALES|06900|RFC válido, y susceptible de recibir facturas
+251|MORS960711Q15|SERGIO IVAN MOSQUEDA ROBLES|45598|RFC válido, y susceptible de recibir facturas
+252|SAPR020123K93|ROCIO SANCHEZ PINTO|22160|El Código Postal no coincide con el registrado en el RFC.
+253|OIRS6511289M5|SALVADOR ORTIZ ROSALES|25060|El Código Postal no coincide con el registrado en el RFC.
+254|MEQV810309ID2|VICTOR MANUEL MEDINA QUEZADA|45060|El Código Postal no coincide con el registrado en el RFC.
+255|CASA941227RW8|KARINA CARMONA SANCHEZ|50100|RFC no registrado en el padrón de contribuyentes
+256|GARE930322UT8|EUNICE SARAI GAONA RIVERA|25115|El Código Postal no coincide con el registrado en el RFC.
+257|LOCJ9103257N1|JORGE ALBERTO LOPEZ CAMACHO|02710|RFC válido, y susceptible de recibir facturas
+258|EILJ9702038H7|JESUS JAVIER ESPINOZA LLAMAS|23400|RFC válido, y susceptible de recibir facturas
+259|TOPM9709144T5|MANUEL OMAR TORRECILLAS PEREZ|80199|El Código Postal no coincide con el registrado en el RFC.
+260|IACJ0008192L1|JUAN JAIR IBARRA CONTRERAS|66612|RFC válido, y susceptible de recibir facturas
+261|JUGC940811AS4|CHRISTIAN NIYEL JUAREZ GONZALEZ|94680|RFC válido, y susceptible de recibir facturas
+262|HEGE010517544|ESTEFANI VIRIDIANA HERNANDEZ GUERRERO|57510|El Código Postal no coincide con el registrado en el RFC.
+263|MAHG730924MC2|GUMARO MARTINEZ HUERTA|11830|RFC válido, y susceptible de recibir facturas
+264|LAML041031859|JOSE LUIS LANDEROS MORENO|32698|El Código Postal no coincide con el registrado en el RFC.
+265|CUCJ940309BUA|JESUS ALBERTO CRUZ CHAVEZ|02770|RFC válido, y susceptible de recibir facturas
+266|AACL790922SP8|LUIS ALBERTO AYALA CASIQUE|53810|RFC no registrado en el padrón de contribuyentes
+267|MASG890830L27|GRACIELA LIXETT MADUEÑA SAPIENS|80017|El Código Postal no coincide con el registrado en el RFC.
+268|ROBE0007063B1|EMILIO ROMERO BACA|09637|RFC válido, y susceptible de recibir facturas
+269|ROGN0512246P7|NAHUM RODRIGUEZ GARCIA|37669|El nombre, denominación o razón social no coincide con el registrado en el RFC
+270|SAHM031228DH5|MANOLO SALINAS HINOJOSA|50010|RFC válido, y susceptible de recibir facturas
+271|OERS011110MJ0|SAUL ISRAEL ORNELAS RAMIREZ|88776|El Código Postal no coincide con el registrado en el RFC.
+272|ROJA970917LA7|ALAN GERARDO RODRIGUEZ JIMEMEZ|45653|El nombre, denominación o razón social no coincide con el registrado en el RFC
+273|SACR940123SK0|REFUGIO ZURIEL SANCHEZ CORTES|90920|El Código Postal no coincide con el registrado en el RFC.
+274|SOTJ010825810|JONATHAN SOTO TAVAREZ|22810|RFC válido, y susceptible de recibir facturas
+275|FORL750227I52|LAURA ALICIA FLORES RAMIREZ|34180|El Código Postal no coincide con el registrado en el RFC.
+276|IAGB850321A6A|BENITO IBARRA GONZALEZ|80104|RFC válido, y susceptible de recibir facturas
+277|AUOA040610U61|ANA PAOLA AGUILAR ORTIZ|55029|RFC no registrado en el padrón de contribuyentes
+278|MESC010523829|CRISTIAN MEJIA SANTIN|50250|RFC válido, y susceptible de recibir facturas
+279|ZUSJ990510CN9|JUANA YANETH ZUÑIGA SALDAÑA|87076|RFC válido, y susceptible de recibir facturas
+280|VAPJ9810282L0|JORGE MANUEL VAZQUEZ PALMILLA|66480|RFC válido, y susceptible de recibir facturas
+281|GASJ9809294G7|JUDITH FERNANDA GARCIA SALCIDO|32575|El Código Postal no coincide con el registrado en el RFC.
+282|YARF801201LF0|FELIPE YAÑEZ RODRIGUEZ|87086|RFC válido, y susceptible de recibir facturas
+283|SAMA970829KI0|JOSE ALFREDO SALAZAR MARTINEZ|52105|RFC válido, y susceptible de recibir facturas
+284|MEDN9408196Y5|NOEMI MENDIETA DE DIOS|14250|RFC válido, y susceptible de recibir facturas
+285|PESJ0209147W6|JORGE LUIS PECH SARABIA|97246|El Código Postal no coincide con el registrado en el RFC.
+286|PASA990529QV3|ARELY PABELLO SALINAS|55700|RFC válido, y susceptible de recibir facturas
